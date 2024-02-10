@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with a project called **CodeUs**
 
-- 🌱 I’m currently learning **TypeScript, Web Sockets and, Redis Database**
+- 🌱 I am developing my skills in **TypeScript, Web Sockets and, Redis Database**
 
 - 📫 You Can connect with me on **jayathimishra2@gmail.com**
 
