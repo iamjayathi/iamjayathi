@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Jayathi Mishra</h1>
-<h3 align="center">Hi folks, I am Full-Stack Web developer, currently working as Backend Intern at The Internet Folks.</h3>
+<h1 align="center">I am Jayathi Mishra</h1>
+<h3 align="center">Hi folks👋, I am Full-Stack Web developer, currently working as Backend Intern at The Internet Folks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjayathi&label=Profile%20views&color=0e75b6&style=flat" alt="iamjayathi" /> </p>
 
