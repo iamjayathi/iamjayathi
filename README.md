@@ -11,7 +11,7 @@
 
 - 📄 Have a look at my Resume [https://drive.google.com/file/d/1VyhvQbMN3YfbrzYR-y4QANQdUGIH8SQp/view?usp=drive_link](https://drive.google.com/file/d/1VyhvQbMN3YfbrzYR-y4QANQdUGIH8SQp/view?usp=drive_link)
 
-- ⚡ Fun fact **I don't have commit-ment issues.**
+- ⚡ Fun fact: **I don't have commit-ment issues.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
