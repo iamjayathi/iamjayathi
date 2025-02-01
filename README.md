@@ -7,7 +7,7 @@
 
 - 🌱 I am developing my skills in **TypeScript, Web Sockets and, Redis Database**
 
-- 📫 You Can connect with me on **jayathimishra2@gmail.com**
+- 📫 You Can connect with me on **jayathimishra@gmail.com**
 
 - 📄 Have a look at my Resume [https://drive.google.com/file/d/1VyhvQbMN3YfbrzYR-y4QANQdUGIH8SQp/view?usp=drive_link](https://drive.google.com/file/d/1VyhvQbMN3YfbrzYR-y4QANQdUGIH8SQp/view?usp=drive_link)
 
