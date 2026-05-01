@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Software Developer at **One800** — building **backend system, scalable architectures & real-time applications**
+- 💻 Software Developer at **One800** — building **backend systems, scalable architectures & real-time applications**
 - ⚡ Experience with **event-driven systems, APIs & performance optimization**
 ---
 
